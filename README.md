@@ -10,4 +10,4 @@ pumpfun sniper bot,sooo fast.
 - npm install
 
 # contact 
-Please consult tg:@WuXiansheng17 first
+Please consult tg:[@Hu](https://t.me/ministore_on_ton) first
